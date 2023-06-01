@@ -1,0 +1,1 @@
+# BloodBankApp-Static-Values-
